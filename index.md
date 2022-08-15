@@ -1,8 +1,8 @@
 ## 歡迎
 
-在開始你的作弊之旅前，請先訂閱我的yt帳號 [現在訂閱](https://www.youtube.com/channel/UCdeCKumfn8rKbOwB3_5hxRA)
+在開始你的作弊之旅前，請先訂閱我的yt帳號[現在訂閱](https://www.youtube.com/channel/UCdeCKumfn8rKbOwB3_5hxRA)
 
-我提供了完美的osu輔助工具，如自動旋轉，放鬆，自動瞄準。這些在我的輔助中，是合法的，且不會被封禁[查看旋轉輔助](https://www.youtube.com/watch?v=nuuUmL4PcG0&ab_channel=A)
+我提供了完美的osu輔助工具，如自動旋轉，放鬆，自動瞄準。這些在我的輔助中，是合法的，且不會被封禁 [查看旋轉輔助](https://www.youtube.com/watch?v=nuuUmL4PcG0&ab_channel=A)
 
 ### 如果你被osu封禁了怎麼辦?
 
