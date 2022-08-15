@@ -4,9 +4,9 @@
 
 我提供了完美的osu輔助工具，如自動旋轉，放鬆，自動瞄準。這些在我的輔助中，是合法的，且不會被封禁[查看旋轉輔助](https://www.youtube.com/watch?v=nuuUmL4PcG0&ab_channel=A)
 
-### Markdown
+### 如果你被osu封禁了怎麼辦?
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+我們會提供偽裝的裝置ID，欺騙osu，讓你的看起來就像是一個新的玩家
 
 ```markdown
 Syntax highlighted code block
