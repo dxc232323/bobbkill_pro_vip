@@ -1,6 +1,6 @@
 ## Welcome
 
-You can use the [editor on GitHub](https://github.com/dxc232323/bobbkill_pro_vip/edit/main/index.md) to maintain and preview the content for your website in Markdown files.
+在開始你的作弊之旅前，請先訂閱我的yt帳號 [現在訂閱](https://www.youtube.com/channel/UCdeCKumfn8rKbOwB3_5hxRA)
 
 Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
 
